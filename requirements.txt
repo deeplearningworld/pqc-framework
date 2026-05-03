@@ -1,0 +1,7 @@
+# Python Wrapper for Open Quantum Safe
+liboqs>=0.10.0
+# Testing Frameworks
+pytest>=8.0.0
+pytest-cov>=5.0.0
+# MLOps/Data utilities (optional, if you're connecting to SLM workflows)
+numpy>=1.26.0
